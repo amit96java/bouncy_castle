@@ -29,3 +29,16 @@ generate private public key :
 install open ssl on windows:
 
     https://www.youtube.com/watch?v=jSkQ27sTto0
+    install openssl
+    add bin path in environment variables
+    verify with this command: openssl version
+
+Bouncy Castle Example:
+
+    https://www.bouncycastle.org/fips-java/BCFipsIn100.pdf
+Example 58 – Basic CertPath Validation
+
+
+Bouncy Castle with Scala:
+
+    https://index.scala-lang.org/karasiq/cryptoutils/cryptoutils/1.4.3?binaryVersion=_2.12
